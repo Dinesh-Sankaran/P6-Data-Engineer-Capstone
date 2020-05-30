@@ -146,7 +146,7 @@ As i said earlier, my end user would be Immigration team and they want to analys
 ![Schema](ConceptualDataModel.jpg)
 
 #### Step 4: Data dictionary 
-[Data Dictionary Link](https://r766466c839826xjupyterlnnfq3jud.udacity-student-workspaces.com/lab/tree/Data%20Dictionary.pdf).
+[Data Dictionary Link](https://github.com/Dinesh-Sankaran/P6-Data-Engineer-Capstone/blob/master/Data%20Dictionary.pdf).
 
 #### Step 5: Complete Project Write Up
 
